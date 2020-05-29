@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Andreas Aschenbrenner
+N:Aschenbrenner;Andreas;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:aschenbrenner@cobelly.com
+TEL;TYPE=WORK:+43 699 17223285
+item1.ADR:;;Mariahilfer Str. 82;Wien;;1070;AT;Mariahilfer Str. 82\n1070 Wien
+ n\nAT
+item1.X-ABLabel:
+item2.ORG:Cobelly;
+item2.X-ABLabel:
+item3.TITLE:Founder
+item3.X-ABLabel:
+item4.URL:https\://cobelly.com/business-card-andreas
+item4.X-ABLabel:PROFILE
+CATEGORIES:myContacts
+END:VCARD
