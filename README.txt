@@ -1,5 +1,5 @@
-// 1
-	npm i
+# Run
 
-// 2
-gulp watch
+> npm i
+
+> gulp watch
